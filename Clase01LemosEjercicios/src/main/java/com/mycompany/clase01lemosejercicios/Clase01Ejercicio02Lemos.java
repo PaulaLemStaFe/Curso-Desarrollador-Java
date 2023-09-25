@@ -5,7 +5,7 @@ public class Clase01Ejercicio02Lemos {
         float ingresosMensuales = 100000; // Ingresos mensuales totales del hogar equivalentes o superiores a $489.083
         int cantidadVehiculosMenosDe5Anios = 2; // Vehiculos con antigüedad menor a 5 (cinco) años
         int cantidadInmuebles = 1; // Cantidad de inmuebles
-        int cantidadVehiculosLujo = 0; // Poseer embarcación, una aeronave de lujo o ser titular de activos societarios
+        int cantidadVehiculosLujo = 1; // Poseer embarcación, una aeronave de lujo o ser titular de activos societarios
         
         if (ingresosMensuales >= 489083 || cantidadVehiculosMenosDe5Anios >= 3 || cantidadInmuebles >= 3 || cantidadVehiculosLujo > 0) {
             System.out.println("El hogar pertenece al segmento de ingresos altos.");
