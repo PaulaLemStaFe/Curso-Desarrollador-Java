@@ -12,7 +12,7 @@ public class Clase04LemosEjerciciosGuiaEjercicio2IncisoA {
                 + " la ruta de un archivo. Ese archivo debe\n" +
                 "contener números. El programa debe escribir por consola la suma de esos números\n");
         
-        String filePath = "C:\\Users\\Paula\\Documents\\Cursos\\Neoris - UTN\\Repositorio\\Curso-Desarrollador-Java\\Clase04LemosEjercicios\\Clase04LemosEjercicios\\src\\main\\java\\com\\mycompany\\clase04lemosejercicios\\Numeros.txt";
+        String filePath = "Recursos/Numeros.txt";
         
         try {
             int suma = sumarNumerosDeArchivo(filePath);

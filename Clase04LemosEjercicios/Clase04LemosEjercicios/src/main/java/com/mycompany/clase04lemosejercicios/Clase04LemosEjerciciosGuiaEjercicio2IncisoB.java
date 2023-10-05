@@ -15,7 +15,7 @@ public class Clase04LemosEjerciciosGuiaEjercicio2IncisoB {
                 + "parámetro para que la operación pueda ser\n" +
                 "   suma o multiplicación.\n");
         
-        String filePath = "C:\\Users\\Paula\\Documents\\Cursos\\Neoris - UTN\\Repositorio\\Curso-Desarrollador-Java\\Clase04LemosEjercicios\\Clase04LemosEjercicios\\src\\main\\java\\com\\mycompany\\clase04lemosejercicios\\Numeros.txt";
+        String filePath = "Recursos/Numeros.txt";
         String operacion = "*"; 
         // Aquí se ingresa el símbolo para la operación: "+" para suma o "*" para multiplicación
         
